@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "64b100000000000000000001"
+    },
+    "fullName": "Nandan S",
+    "email": "nandan.s@email.com",
+    "password": "fd01bfb34658d75c6fe527f82610005c2deefd31ef0bc401b13a793803764689",
+    "confirmPassword": "fd01bfb34658d75c6fe527f82610005c2deefd31ef0bc401b13a793803764689"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000002"
+    },
+    "fullName": "Rahul Sharma",
+    "email": "rahul.sharma@email.com",
+    "password": "0b0e41f9a0960b7681e44cda5c9473c67d6713f6f02f8dd30f6f4d9135e446cf",
+    "confirmPassword": "0b0e41f9a0960b7681e44cda5c9473c67d6713f6f02f8dd30f6f4d9135e446cf"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000003"
+    },
+    "fullName": "Anita Verma",
+    "email": "anita.verma@email.com",
+    "password": "989d9c63ae0ccfd372c89da7f698ed9ec17ec0703501c0d864375d6fa4a5a66d",
+    "confirmPassword": "989d9c63ae0ccfd372c89da7f698ed9ec17ec0703501c0d864375d6fa4a5a66d"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000004"
+    },
+    "fullName": "Kiran Patel",
+    "email": "kiran.patel@email.com",
+    "password": "1dba8731d52660849916346d2cc06e22dae89aca395bba53716f0ba7bab42dcc",
+    "confirmPassword": "1dba8731d52660849916346d2cc06e22dae89aca395bba53716f0ba7bab42dcc"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000005"
+    },
+    "fullName": "Sneha Reddy",
+    "email": "sneha.reddy@email.com",
+    "password": "1a1585943a1dae379ac6b932f8f932ddd67abbbb94796d0d5c60037a8489333b",
+    "confirmPassword": "1a1585943a1dae379ac6b932f8f932ddd67abbbb94796d0d5c60037a8489333b"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000006"
+    },
+    "fullName": "Rohit Kumar",
+    "email": "rohit.kumar@email.com",
+    "password": "d6ac1fafa9d68ea5ba2751d7b4a202fe5ae8dfd061cbc6a3461ddfe14963a52d",
+    "confirmPassword": "d6ac1fafa9d68ea5ba2751d7b4a202fe5ae8dfd061cbc6a3461ddfe14963a52d"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000007"
+    },
+    "fullName": "Priya Nair",
+    "email": "priya.nair@email.com",
+    "password": "7afd856211061c89dca7c8f139162792eea5237b9d925741760cf30fc6131f0c",
+    "confirmPassword": "7afd856211061c89dca7c8f139162792eea5237b9d925741760cf30fc6131f0c"
+  },
+  {
+    "_id": {
+      "$oid": "64b100000000000000000008"
+    },
+    "fullName": "Vikram Rao",
+    "email": "vikram.rao@email.com",
+    "password": "1eb2981a23343af133585c0761e282941548b24e3601af7bc0ca4e2cc1965c82",
+    "confirmPassword": "1eb2981a23343af133585c0761e282941548b24e3601af7bc0ca4e2cc1965c82"
+  }
+]

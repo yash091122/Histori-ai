@@ -1,0 +1,593 @@
+[
+  {
+    "_id": {
+      "$oid": "prf100000000000000000001"
+    },
+    "userId": "64b100000000000000000001",
+    "fullName": "Nandan S",
+    "bio": "Passionate about Mughal history and architecture. Love exploring UNESCO sites across India.",
+    "location": "Bangalore, Karnataka",
+    "badges": [
+      "Heritage Explorer",
+      "Golden Triangle Veteran",
+      "UNESCO Hunter"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Carry water and sunscreen.",
+          "Taj Mahal is closed on Fridays.",
+          "Book tickets in advance on ASI website."
+        ],
+        "date": "2024-11-01"
+      },
+      {
+        "tip": [
+          "Old Delhi is best explored in the morning before crowds build.",
+          "Dress modestly at Lotus Temple."
+        ],
+        "date": "2024-11-02"
+      },
+      {
+        "tip": [
+          "Taj Mahal is closed on Fridays.",
+          "Carry only small bags (no food, tripods) inside Taj complex.",
+          "Book e-rickshaw from parking to Taj gate."
+        ],
+        "date": "2024-11-03"
+      },
+      {
+        "tip": [
+          "Hawa Mahal exterior is the photo spot — interior is small.",
+          "Book Chokhi Dhani in advance for a folk dinner experience."
+        ],
+        "date": "2024-11-04"
+      },
+      {
+        "tip": [
+          "Start early to beat traffic.",
+          "Shop for blue pottery and block-print fabrics in Jaipur markets.",
+          "Delhi airport is 45-60 mins from city."
+        ],
+        "date": "2024-11-05"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to New Delhi",
+        "content": "India's most popular tourist circuit. Book hotels and Taj Mahal tickets well in advance during peak season (Nov-Feb). The Golden Triangle covers ~750 km total.",
+        "date": "2024-11-08"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 660,
+      "following": 89
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000002"
+    },
+    "userId": "64b100000000000000000002",
+    "fullName": "Rahul Sharma",
+    "bio": "Solo traveller following the footsteps of Buddha. Minimalist packer and budget explorer.",
+    "location": "Delhi, India",
+    "badges": [
+      "Pilgrimage Walker",
+      "Budget Traveller",
+      "Solo Explorer"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Dress modestly — shoulders and knees covered.",
+          "Photography restrictions around the Bodhi Tree. Respect meditating pilgrims.",
+          "Best visited Oct-Mar; huge crowds on Buddha Purnima."
+        ],
+        "date": "2024-12-10"
+      },
+      {
+        "tip": [
+          "Combine Nalanda and Rajgir in one day — they're 12 km apart.",
+          "Ropeway to Vishwa Santi Stupa: ₹50 return. Avoid Sundays (crowded).",
+          "Hot springs at Rajgir are worth a dip."
+        ],
+        "date": "2024-12-11"
+      },
+      {
+        "tip": [
+          "Pawapuri lake is stunning in winter with blooming lotus.",
+          "Vaishali is the birthplace of Lord Mahavira and also where Buddha gave his last sermon.",
+          "Combine both sites efficiently as they lie on Rajgir-Patna route."
+        ],
+        "date": "2024-12-12"
+      },
+      {
+        "tip": [
+          "Sasaram is en route between Patna and Varanasi — ideal stop.",
+          "The tomb is accessible via a causeway over the lake.",
+          "Combine with Varanasi for a 5-day Bihar-UP circuit."
+        ],
+        "date": "2024-12-13"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Bodh Gaya",
+        "content": "This circuit follows in the footsteps of Gautama Buddha and Emperor Ashoka. Best paired with a Varanasi extension. Gaya has the nearest airport (GAY).",
+        "date": "2024-12-16"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 705,
+      "following": 212
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000003"
+    },
+    "userId": "64b100000000000000000003",
+    "fullName": "Anita Verma",
+    "bio": "Family travel enthusiast. Rajasthan is my second home. Forts and palaces fascinate me.",
+    "location": "Mumbai, Maharashtra",
+    "badges": [
+      "Royal Rajasthan",
+      "Fort Chaser",
+      "Family Traveller"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Start with markets in the morning (Johari Bazaar for gems, Bapu for crafts).",
+          "Jaipur Literature Festival is held in Jan/Feb — a cultural highlight."
+        ],
+        "date": "2025-01-15"
+      },
+      {
+        "tip": [
+          "Amber Fort elephant rides have been restricted — opt for jeep. Book online.",
+          "Light and Sound show at Amber Fort at 7 PM — spectacular.",
+          "Jaigarh Fort above Amber Fort is worth a separate visit."
+        ],
+        "date": "2025-01-16"
+      },
+      {
+        "tip": [
+          "Chittorgarh Fort is massive — hire a guide or e-vehicle for the 5 km internal circuit.",
+          "The light and sound show at Vijay Stambha is excellent.",
+          "Mewar Festival (March) is a brilliant time to visit."
+        ],
+        "date": "2025-01-17"
+      },
+      {
+        "tip": [
+          "City Palace Museum ticket is separate from the hotel section.",
+          "Book a sunset boat ride on Lake Pichola.",
+          "Udaipur has outstanding heritage hotels including Taj Lake Palace (on an island)."
+        ],
+        "date": "2025-01-18"
+      },
+      {
+        "tip": [
+          "Sunset from Sajjangarh (Monsoon Palace) is outstanding.",
+          "Take a boat to Jagmandir Island — a floating palace.",
+          "Book hotels near the old city for the best experience."
+        ],
+        "date": "2025-01-19"
+      },
+      {
+        "tip": [
+          "Visit Shilpgram Crafts Village on weekends for live demonstrations.",
+          "Attend a Dharohar Folk Dance Show at Bagore Ki Haveli (7:30 PM daily).",
+          "Shop for miniature paintings, silver jewellery, and Bandhani fabric."
+        ],
+        "date": "2025-01-20"
+      },
+      {
+        "tip": [
+          "Udaipur Airport (UDR) has good connectivity to Delhi and Mumbai.",
+          "Book airport transfer in advance.",
+          "Carry Rajasthani souvenirs — mini palaces, blue pottery, lac bangles."
+        ],
+        "date": "2025-01-21"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Jaipur",
+        "content": "Rajasthan is India's most popular tourist state. This route covers its most dramatic heritage — from the tragedy of Chittorgarh to the romance of Udaipur. Hire a private car for comfort.",
+        "date": "2025-01-24"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 628,
+      "following": 123
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000004"
+    },
+    "userId": "64b100000000000000000004",
+    "fullName": "Kiran Patel",
+    "bio": "Cave art lover and UNESCO heritage chaser. Exploring Maharashtra's hidden gems.",
+    "location": "Ahmedabad, Gujarat",
+    "badges": [
+      "Cave Explorer",
+      "UNESCO Hunter",
+      "Maharashtra Trail"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Pune has a vibrant café culture — explore Camp area in the evening.",
+          "Osho International Meditation Resort is nearby for those interested.",
+          "Peshwa-era wadas and Aga Khan Palace make for a full day."
+        ],
+        "date": "2025-02-05"
+      },
+      {
+        "tip": [
+          "Gateway of India is free but crowded — go morning or evening.",
+          "Marine Drive (Queen's Necklace) is a 15-min walk from CST.",
+          "Book Elephanta Caves ferry from Gateway Pier."
+        ],
+        "date": "2025-02-06"
+      },
+      {
+        "tip": [
+          "Ellora is closed on Tuesdays.",
+          "Kailasa Temple alone needs 2 hours — it's mind-blowing.",
+          "Aurangabad has excellent cave hotels and MTDC resort nearby."
+        ],
+        "date": "2025-02-07"
+      },
+      {
+        "tip": [
+          "Ajanta is closed on Mondays.",
+          "Special torches available at ticket counter to illuminate cave paintings.",
+          "Start early — last entry is at 4:30 PM.",
+          "Combine Ajanta + Ellora on separate days — both need serious time."
+        ],
+        "date": "2025-02-08"
+      },
+      {
+        "tip": [
+          "Aurangabad airport (IXU) connects to Mumbai and Delhi.",
+          "Buy Paithani silk sarees and Himroo shawls — Aurangabad specialties.",
+          "Bibi Ka Maqbara (Mini Taj) worth a morning stop before departure."
+        ],
+        "date": "2025-02-09"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Pune",
+        "content": "Maharashtra's UNESCO trifecta — Ajanta, Ellora, and CST — make this one of India's richest heritage circuits. Avoid monsoon for cave visits (landslide risk).",
+        "date": "2025-02-12"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 59,
+      "following": 203
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000005"
+    },
+    "userId": "64b100000000000000000005",
+    "fullName": "Sneha Reddy",
+    "bio": "Beach lover and colonial history buff. Goa every season, different vibe every time.",
+    "location": "Hyderabad, Telangana",
+    "badges": [
+      "Beach Bum",
+      "Colonial Heritage",
+      "Goa Lover"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Old Goa churches are all within walking distance of each other.",
+          "Dress modestly for churches — no shorts or sleeveless.",
+          "Se Cathedral nearby is the largest church in Asia."
+        ],
+        "date": "2025-03-20"
+      },
+      {
+        "tip": [
+          "Chapora Fort is best at sunrise/sunset — the view over Vagator is stunning.",
+          "Fort Aguada has both the fort on top and a beach section below.",
+          "Anjuna Flea Market on Wednesdays is a classic Goa experience."
+        ],
+        "date": "2025-03-21"
+      },
+      {
+        "tip": [
+          "Daman is separate from Goa but shares Portuguese colonial heritage.",
+          "Diu is 3 hrs from Daman — consider extending for the Diu Museum.",
+          "Daman has quiet, clean beaches — far less crowded than Goa."
+        ],
+        "date": "2025-03-22"
+      },
+      {
+        "tip": [
+          "Goa has two airports — confirm which one your flight uses.",
+          "Buy cashews, Goan spices, and feni (local spirit) as souvenirs.",
+          "Book airport transfer in advance especially during peak season (Dec-Jan)."
+        ],
+        "date": "2025-03-23"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Old Goa",
+        "content": "Goa is India's most beloved beach destination. December-January is peak season — book hotels 2-3 months ahead. Monsoon (Jun-Sep) closes some beach clubs but is lush and green.",
+        "date": "2025-03-26"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 489,
+      "following": 235
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000006"
+    },
+    "userId": "64b100000000000000000006",
+    "fullName": "Rohit Kumar",
+    "bio": "Temple architecture geek. South India has the world's most underrated heritage.",
+    "location": "Chennai, Tamil Nadu",
+    "badges": [
+      "Temple Hopper",
+      "South India Expert",
+      "Dravidian Scholar"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Hampi is divided by the Tungabhadra River — Coracle boats cross between sides.",
+          "Vittala Temple's stone chariot and musical pillars are unmissable.",
+          "Hampi Utsav festival in November is a cultural highlight."
+        ],
+        "date": "2024-10-08"
+      },
+      {
+        "tip": [
+          "Mysore Palace: Sunday and national holidays have illumination from 7-7:45 PM.",
+          "The Dasara festival (Oct) is the best time to visit Mysore.",
+          "Book heritage stay in Mysore for a regal experience."
+        ],
+        "date": "2024-10-09"
+      },
+      {
+        "tip": [
+          "Brindavan Gardens illumination show at 7:30 PM is magical.",
+          "Mysore is famous for silk sarees, sandalwood products, and agarbatti.",
+          "Namdroling Monastery (Golden Temple) 70 km away — Buddha temple with stunning Tibetan art."
+        ],
+        "date": "2024-10-10"
+      },
+      {
+        "tip": [
+          "Thanjavur Brihadeshwara Temple is best in morning light — golden stone glows brilliantly.",
+          "The temple is a working Shaivite shrine — follow dress code.",
+          "Thanjavur is famous for Tanjore painting, bronze idols, and veena."
+        ],
+        "date": "2024-10-11"
+      },
+      {
+        "tip": [
+          "Bekal Fort at sunset is magical — sea surrounds three sides.",
+          "Bekal Beach next to the fort is clean and uncrowded.",
+          "Bekal is best base for exploring North Kerala's heritage."
+        ],
+        "date": "2024-10-12"
+      },
+      {
+        "tip": [
+          "Kozhikode is famous for Malabar biryani — don't miss it.",
+          "Buy Kashmiri handicrafts, sandalwood products, and Kerala spices.",
+          "Bekal-Kozhikode drive along NH66 coastal highway is scenic."
+        ],
+        "date": "2024-10-13"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Hampi",
+        "content": "South India's temple architecture is unlike anything in the world. This circuit blends Dravidian temples, Vijayanagara ruins, and Mughal-era coastal forts across 3 states.",
+        "date": "2024-10-16"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 326,
+      "following": 282
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000007"
+    },
+    "userId": "64b100000000000000000007",
+    "fullName": "Priya Nair",
+    "bio": "Chasing all 7 Wonders of the World. 5 down, 2 to go!",
+    "location": "Kochi, Kerala",
+    "badges": [
+      "World Wonders",
+      "International Traveller",
+      "Premium Explorer"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Book Eiffel Tower tickets online at least 6-8 weeks in advance.",
+          "Best photos from Trocadéro Gardens (across the river).",
+          "Night illumination runs every hour after sunset — spectacular."
+        ],
+        "date": "2025-04-01"
+      },
+      {
+        "tip": [
+          "Louvre has 35,000 works — pre-plan which wings to visit.",
+          "Mona Lisa is smaller than expected — arrive early to avoid crowds.",
+          "Montmartre's Sacré-Cœur offers another stunning Paris panorama."
+        ],
+        "date": "2025-04-02"
+      },
+      {
+        "tip": [
+          "Book Colosseum + Roman Forum + Palatine Hill combo ticket.",
+          "The underground (hypogeum) requires a separate premium ticket.",
+          "Trevi Fountain and Spanish Steps are walking distance from city centre."
+        ],
+        "date": "2025-04-03"
+      },
+      {
+        "tip": [
+          "Vatican Museums require advance booking — Sistine Chapel is inside.",
+          "Pantheon is free — arrive early.",
+          "Roman Forum connects to Palatine Hill — allow 3-4 hours."
+        ],
+        "date": "2025-04-04"
+      },
+      {
+        "tip": [
+          "Camel rides near Pyramids — negotiate price firmly before mounting.",
+          "Sound and Light Show at Pyramids nightly — spectacular.",
+          "Avoid unofficial guides at the gate — only use licensed ones."
+        ],
+        "date": "2025-04-05"
+      },
+      {
+        "tip": [
+          "Egyptian Museum has Tutankhamun's gold mask — unmissable.",
+          "Khan el-Khalili bazaar is a sensory overload — bargain hard.",
+          "Book the Grand Egyptian Museum (GEM) if open — largest in the world."
+        ],
+        "date": "2025-04-06"
+      },
+      {
+        "tip": [
+          "Book Burj Khalifa tickets well in advance — sunset slots sell out fast.",
+          "Dubai Fountain show at Dubai Mall every 30 min from 6 PM — free and spectacular.",
+          "Dubai Frame and Museum of the Future are alternative modern icons."
+        ],
+        "date": "2025-04-07"
+      },
+      {
+        "tip": [
+          "Gold Souk: buy gold by weight — it's among cheapest in world.",
+          "Desert safari: 4WD dune bashing, camel ride, falconry, and BBQ dinner.",
+          "Old Dubai (Deira, Bur Dubai) and the Abra (water taxi) are authentic old-city experiences."
+        ],
+        "date": "2025-04-08"
+      },
+      {
+        "tip": [
+          "Book Taj Mahal tickets at asiagraticketing.nic.in — no same-day cash tickets now.",
+          "The Taj is most beautiful at sunrise and in full moon nights (special tickets).",
+          "Stay at Oberoi Amarvilas for a Taj-view room — a bucket list experience."
+        ],
+        "date": "2025-04-09"
+      },
+      {
+        "tip": [
+          "Fatehpur Sikri is 40 km from Agra — perfect en-route stop.",
+          "Check in 3 hours before international departure from Delhi T3.",
+          "This 10-day itinerary covers 5 countries and 4 continents of heritage."
+        ],
+        "date": "2025-04-10"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Paris",
+        "content": "This premium itinerary covers 5 of the 7 New Wonders of the World plus UNESCO iconic landmarks. Book flights, Taj Mahal, Eiffel Tower, Colosseum, and Burj Khalifa tickets months in advance.",
+        "date": "2025-04-13"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 185,
+      "following": 193
+    }
+  },
+  {
+    "_id": {
+      "$oid": "prf100000000000000000008"
+    },
+    "userId": "64b100000000000000000008",
+    "fullName": "Vikram Rao",
+    "bio": "Nawabi food and architecture enthusiast. Biryani pilgrim across Hyderabad and Lucknow.",
+    "location": "Pune, Maharashtra",
+    "badges": [
+      "Nawabi Trail",
+      "Food Traveller",
+      "Heritage Hunter"
+    ],
+    "tipsHistory": [
+      {
+        "tip": [
+          "Charminar area: Laad Bazaar for bangles, Pathar Gatti for pearls.",
+          "Book Falaknuma Palace heritage dinner well in advance (₹5,000+ per person).",
+          "Chowmahalla Palace nearby is another Nizam-era gem."
+        ],
+        "date": "2024-12-28"
+      },
+      {
+        "tip": [
+          "Golconda Fort: Sound & Light show at 7 PM is excellent.",
+          "Ramoji Film City is a full-day theme park for Bollywood fans.",
+          "Salar Jung Museum has one of the world's largest one-man art collections."
+        ],
+        "date": "2024-12-29"
+      },
+      {
+        "tip": [
+          "Both imambaras are best explored with an official guide.",
+          "The Bhulbhulaiya (maze) at Bara Imambara: stay with the group to avoid getting lost.",
+          "Lucknow has the most refined form of Hindustani music, dance, and cuisine."
+        ],
+        "date": "2024-12-30"
+      },
+      {
+        "tip": [
+          "Tunday Kababi's galauti kebab is among India's finest foods.",
+          "Chikan embroidery work is Lucknow's most famous craft — buy it in Hazratganj.",
+          "Ambedkar Park and Residency are other heritage spots.",
+          "Lucknow Airport (LKO) connects to major Indian cities."
+        ],
+        "date": "2024-12-31"
+      }
+    ],
+    "posts": [
+      {
+        "title": "My trip to Hyderabad",
+        "content": "Hyderabad and Lucknow are India's two great Nawabi cities — where Mughal refinement met regional culture to create unique food, language, and architecture. Biryani in both cities is a pilgrimage.",
+        "date": "2025-01-03"
+      }
+    ],
+    "stats": {
+      "trips": 1,
+      "posts": 1,
+      "followers": 50,
+      "following": 218
+    }
+  }
+]

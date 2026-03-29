@@ -1,0 +1,2257 @@
+[
+  {
+    "itinerary_id": "IND-001",
+    "title": "Golden Triangle Classic — Delhi, Agra & Jaipur",
+    "trip_type": "Cultural & Heritage",
+    "duration_days": 5,
+    "destinations": [
+      "New Delhi",
+      "Agra",
+      "Jaipur"
+    ],
+    "themes": [
+      "Heritage",
+      "Mughal",
+      "Rajput",
+      "UNESCO"
+    ],
+    "difficulty": "Easy",
+    "budget_level": "Moderate (₹3,000-₹6,000/day)",
+    "best_season": "October to March",
+    "notes": "India's most popular tourist circuit. Book hotels and Taj Mahal tickets well in advance during peak season (Nov-Feb). The Golden Triangle covers ~750 km total.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Delhi — Mughal Grandeur",
+        "description": "Arrive in New Delhi and explore iconic Mughal and colonial landmarks.",
+        "monuments": [
+          {
+            "name": "India Gate",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.6129,
+            "lon": 77.2295,
+            "themes": [
+              "Heritage",
+              "War Memorial"
+            ],
+            "arrival_time": "10:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "24 hours",
+            "rating": 4.7,
+            "notes": "Great for morning photos; lawn area perfect for a stroll."
+          },
+          {
+            "name": "Humayun's Tomb",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.5933,
+            "lon": 77.2507,
+            "themes": [
+              "Heritage",
+              "Mughal",
+              "UNESCO"
+            ],
+            "arrival_time": "12:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.6,
+            "notes": "Precursor to the Taj Mahal — a must-see for Mughal architecture."
+          },
+          {
+            "name": "Qutub Minar",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.5244,
+            "lon": 77.1855,
+            "themes": [
+              "Heritage",
+              "UNESCO"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "7AM-5PM",
+            "rating": 4.5,
+            "notes": "World's tallest brick minaret. Visit Iron Pillar inside the complex."
+          },
+          {
+            "name": "Iron Pillar",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.5246,
+            "lon": 77.1855,
+            "themes": [
+              "Heritage",
+              "Ancient"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 0.5,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "7AM-5PM",
+            "rating": 4.3,
+            "notes": "Ancient iron pillar inside Qutub complex — remarkable 1600-year-old metallurgy."
+          }
+        ],
+        "meals": {
+          "breakfast": "At hotel",
+          "lunch": "Karim's, Nizamuddin",
+          "dinner": "Bukhara, ITC Maurya"
+        },
+        "transport": {
+          "mode": "Cab/Auto",
+          "notes": "Book a full-day cab (~₹1200-1500). Metro available between major spots."
+        },
+        "tips": [
+          "Carry water and sunscreen.",
+          "Taj Mahal is closed on Fridays.",
+          "Book tickets in advance on ASI website."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Delhi Deep Dive — Ancient Gates & Sacred Spaces",
+        "description": "Explore more of Delhi's layered history from Mughal gateways to the serene Lotus Temple.",
+        "monuments": [
+          {
+            "name": "Ajmeri Gate",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.6447,
+            "lon": 77.216,
+            "themes": [
+              "Heritage",
+              "Mughal"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 1,
+            "ticket_price": "Free",
+            "visiting_hours": "24 hours",
+            "rating": 4.0,
+            "notes": "Historic Mughal-era gate in Old Delhi."
+          },
+          {
+            "name": "Jamali Kamali Tomb",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.5197,
+            "lon": 77.1847,
+            "themes": [
+              "Heritage",
+              "Mughal"
+            ],
+            "arrival_time": "10:30 AM",
+            "duration_hrs": 1,
+            "ticket_price": "₹5",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.2,
+            "notes": "Hidden gem in Mehrauli — peaceful and photogenic."
+          },
+          {
+            "name": "Lotus Temple",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "region": "Asia",
+            "lat": 28.5535,
+            "lon": 77.2588,
+            "themes": [
+              "Religious",
+              "Architecture"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "9AM-5:30PM",
+            "rating": 4.5,
+            "notes": "No photography inside. Serene Bahá'í temple open to all faiths."
+          }
+        ],
+        "meals": {
+          "breakfast": "At hotel",
+          "lunch": "Paranthe Wali Gali, Chandni Chowk",
+          "dinner": "Indian Accent, New Delhi"
+        },
+        "transport": {
+          "mode": "Metro + Auto",
+          "notes": "Yellow Line metro convenient for Old Delhi. Take auto for Mehrauli."
+        },
+        "tips": [
+          "Old Delhi is best explored in the morning before crowds build.",
+          "Dress modestly at Lotus Temple."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Drive to Agra — The Iconic Taj Mahal",
+        "description": "Travel to Agra and witness the world's greatest monument to love.",
+        "monuments": [
+          {
+            "name": "Taj Mahal",
+            "city": "Agra",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.1751,
+            "lon": 78.0421,
+            "themes": [
+              "Heritage",
+              "UNESCO",
+              "Mughal"
+            ],
+            "arrival_time": "06:00 AM",
+            "duration_hrs": 3,
+            "ticket_price": "₹50/₹1100",
+            "visiting_hours": "6AM-6:30PM",
+            "rating": 4.9,
+            "notes": "Arrive at sunrise — golden light on white marble is breathtaking. Pre-book tickets."
+          },
+          {
+            "name": "Fatehpur Sikri",
+            "city": "Fatehpur Sikri",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.0944,
+            "lon": 77.666,
+            "themes": [
+              "Heritage",
+              "Mughal",
+              "UNESCO"
+            ],
+            "arrival_time": "01:00 PM",
+            "duration_hrs": 2.5,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.5,
+            "notes": "Akbar's abandoned red sandstone city — hauntingly beautiful."
+          },
+          {
+            "name": "Buland Darwaza",
+            "city": "Fatehpur Sikri",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.0943,
+            "lon": 77.6608,
+            "themes": [
+              "Heritage",
+              "Mughal"
+            ],
+            "arrival_time": "02:00 PM",
+            "duration_hrs": 1,
+            "ticket_price": "₹40",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.6,
+            "notes": "The grand Victory Gate of Fatehpur Sikri — 54 metres tall."
+          }
+        ],
+        "meals": {
+          "breakfast": "At Delhi hotel before departure",
+          "lunch": "Pind Balluchi, Agra",
+          "dinner": "Dasaprakash, Agra"
+        },
+        "transport": {
+          "mode": "Hired car Delhi-Agra (~3.5 hrs via Yamuna Expressway)",
+          "notes": "Diesel vehicles not allowed near Taj Mahal. Use official e-rickshaws."
+        },
+        "tips": [
+          "Taj Mahal is closed on Fridays.",
+          "Carry only small bags (no food, tripods) inside Taj complex.",
+          "Book e-rickshaw from parking to Taj gate."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Agra to Jaipur — Pink City Arrival",
+        "description": "Morning at Fatehpur Sikri Fort then drive to Jaipur — the Pink City of Rajasthan.",
+        "monuments": [
+          {
+            "name": "Fatehpur Sikri Fort",
+            "city": "Fatehpur Sikri",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.0967,
+            "lon": 77.6637,
+            "themes": [
+              "Heritage",
+              "Mughal"
+            ],
+            "arrival_time": "08:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.4,
+            "notes": "Walk the royal complex before heat sets in."
+          },
+          {
+            "name": "Hawa Mahal",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9239,
+            "lon": 75.8267,
+            "themes": [
+              "Heritage",
+              "Rajput"
+            ],
+            "arrival_time": "04:00 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹50/₹200",
+            "visiting_hours": "9AM-5PM",
+            "rating": 4.5,
+            "notes": "The Palace of Winds — best viewed from the street cafe opposite."
+          },
+          {
+            "name": "Albert Hall Museum",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9113,
+            "lon": 75.8171,
+            "themes": [
+              "Heritage",
+              "Museum"
+            ],
+            "arrival_time": "06:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "₹40/₹300",
+            "visiting_hours": "10AM-5PM",
+            "rating": 4.3,
+            "notes": "Stunning collection of Rajasthani art, textiles, and manuscripts."
+          }
+        ],
+        "meals": {
+          "breakfast": "At Agra hotel",
+          "lunch": "On road (Kota highway dhaba)",
+          "dinner": "Chokhi Dhani, Jaipur (folk culture village)"
+        },
+        "transport": {
+          "mode": "Hired car Agra-Jaipur (~4.5 hrs via NH21)",
+          "notes": "Rajasthan State Highway — comfortable and scenic."
+        },
+        "tips": [
+          "Hawa Mahal exterior is the photo spot — interior is small.",
+          "Book Chokhi Dhani in advance for a folk dinner experience."
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Jaipur — Rajput Splendour & Departure",
+        "description": "Explore the magnificent royal forts and palaces of Jaipur before returning to Delhi.",
+        "monuments": [
+          {
+            "name": "Isarlat Sargasooli",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9244,
+            "lon": 75.8183,
+            "themes": [
+              "Heritage"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 1,
+            "ticket_price": "₹50",
+            "visiting_hours": "9AM-5PM",
+            "rating": 4.1,
+            "notes": "Seven-storey tower offering panoramic views of Jaipur's old city."
+          }
+        ],
+        "meals": {
+          "breakfast": "At hotel",
+          "lunch": "Lassiwala, MI Road",
+          "dinner": "In Delhi or at airport"
+        },
+        "transport": {
+          "mode": "Hired car Jaipur-Delhi (~5 hrs via NH48)",
+          "notes": "Delhi-Jaipur expressway — India's first 6-lane highway. Smooth drive."
+        },
+        "tips": [
+          "Start early to beat traffic.",
+          "Shop for blue pottery and block-print fabrics in Jaipur markets.",
+          "Delhi airport is 45-60 mins from city."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "IND-002",
+    "title": "Sacred Buddhist Circuit — Bodh Gaya, Nalanda & Rajgir",
+    "trip_type": "Pilgrimage & Spiritual",
+    "duration_days": 4,
+    "destinations": [
+      "Bodh Gaya",
+      "Rajgir",
+      "Pawapuri",
+      "Gaya",
+      "Vaishali",
+      "Sasaram"
+    ],
+    "themes": [
+      "Buddhist",
+      "Jain",
+      "Religious",
+      "Heritage",
+      "Pilgrimage"
+    ],
+    "difficulty": "Easy",
+    "budget_level": "Budget to Moderate (₹1,500-₹3,000/day)",
+    "best_season": "October to March",
+    "notes": "This circuit follows in the footsteps of Gautama Buddha and Emperor Ashoka. Best paired with a Varanasi extension. Gaya has the nearest airport (GAY).",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bodh Gaya — Where Buddha Attained Enlightenment",
+        "description": "Arrive at the holiest Buddhist site in the world and experience deep spiritual peace.",
+        "monuments": [
+          {
+            "name": "Mahabodhi Temple",
+            "city": "Bodh Gaya",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.6962,
+            "lon": 84.9913,
+            "themes": [
+              "Buddhist",
+              "Religious",
+              "UNESCO"
+            ],
+            "arrival_time": "05:30 AM",
+            "duration_hrs": 2,
+            "ticket_price": "Free",
+            "visiting_hours": "5AM-9PM",
+            "rating": 4.7,
+            "notes": "UNESCO World Heritage site. Attend the morning prayer at 5:30 AM — a deeply moving experience."
+          },
+          {
+            "name": "Bodhi Tree",
+            "city": "Bodh Gaya",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.6962,
+            "lon": 84.9913,
+            "themes": [
+              "Buddhist",
+              "Religious",
+              "Sacred"
+            ],
+            "arrival_time": "07:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "5AM-9PM",
+            "rating": 4.7,
+            "notes": "Sit under the sacred fig tree and meditate where the Buddha found enlightenment."
+          },
+          {
+            "name": "Bhudha Temple",
+            "city": "Bodh Gaya",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.6962,
+            "lon": 84.9913,
+            "themes": [
+              "Buddhist",
+              "Religious"
+            ],
+            "arrival_time": "10:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "5AM-9PM",
+            "rating": 4.6,
+            "notes": "Explore the surrounding monastery complex with temples from 12+ countries."
+          },
+          {
+            "name": "Vishnupad Temple",
+            "city": "Gaya",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.794,
+            "lon": 84.998,
+            "themes": [
+              "Hindu",
+              "Religious",
+              "Sacred"
+            ],
+            "arrival_time": "04:00 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "5AM-9PM",
+            "rating": 4.5,
+            "notes": "15 km away in Gaya — sacred Hindu temple with Vishnu's footprint."
+          }
+        ],
+        "meals": {
+          "breakfast": "At monastery guest house",
+          "lunch": "Fujiya Green (Japanese café near Mahabodhi)",
+          "dinner": "Mohammad Ali Dhaba, Bodh Gaya"
+        },
+        "transport": {
+          "mode": "Auto-rickshaw within Bodh Gaya; hired jeep to Gaya (30 min)"
+        },
+        "tips": [
+          "Dress modestly — shoulders and knees covered.",
+          "Photography restrictions around the Bodhi Tree. Respect meditating pilgrims.",
+          "Best visited Oct-Mar; huge crowds on Buddha Purnima."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Nalanda & Rajgir — Ancient Learning & Peace",
+        "description": "Visit the world's first university and the sacred hills of Rajgir.",
+        "monuments": [
+          {
+            "name": "Nalanda",
+            "city": "Rajgir",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 25.1352,
+            "lon": 85.443,
+            "themes": [
+              "Heritage",
+              "Buddhist",
+              "UNESCO",
+              "Ancient"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 2.5,
+            "ticket_price": "₹20/₹200",
+            "visiting_hours": "9AM-5PM",
+            "rating": 4.4,
+            "notes": "UNESCO Heritage site — walk through the ruins of the world's greatest ancient university."
+          },
+          {
+            "name": "Vishwa Santi Stupa",
+            "city": "Rajgir",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 25.0293,
+            "lon": 85.4244,
+            "themes": [
+              "Buddhist",
+              "Religious",
+              "Peace"
+            ],
+            "arrival_time": "01:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "Free",
+            "visiting_hours": "6AM-5PM",
+            "rating": 4.5,
+            "notes": "Take the ropeway up Ratnagiri Hill for panoramic views. 4 golden Buddha statues on the stupa."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel in Bodh Gaya / Rajgir",
+          "lunch": "Hotel Indo Hokke, Rajgir",
+          "dinner": "Hotel Gautam Vihar, Rajgir"
+        },
+        "transport": {
+          "mode": "Hired cab Bodh Gaya to Rajgir (~2 hrs, 80 km); auto within Rajgir"
+        },
+        "tips": [
+          "Combine Nalanda and Rajgir in one day — they're 12 km apart.",
+          "Ropeway to Vishwa Santi Stupa: ₹50 return. Avoid Sundays (crowded).",
+          "Hot springs at Rajgir are worth a dip."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Pawapuri & Vaishali — Jain & Buddhist Heritage",
+        "description": "Visit the sacred Jain shrine of Jal Mandir and the ancient Buddhist city of Vaishali.",
+        "monuments": [
+          {
+            "name": "Jal Mandir",
+            "city": "Pawapuri",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 25.2017,
+            "lon": 85.527,
+            "themes": [
+              "Jain",
+              "Religious",
+              "Sacred"
+            ],
+            "arrival_time": "08:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "6AM-8PM",
+            "rating": 4.6,
+            "notes": "Serene white temple on a lotus lake — Lord Mahavira's nirvana site."
+          },
+          {
+            "name": "Ashoka Pillar",
+            "city": "Vaishali",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 25.9858,
+            "lon": 85.128,
+            "themes": [
+              "Heritage",
+              "Ancient",
+              "Buddhist"
+            ],
+            "arrival_time": "12:00 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.3,
+            "notes": "Vaishali — one of India's finest surviving Ashoka pillars near the ancient stupa."
+          }
+        ],
+        "meals": {
+          "breakfast": "At hotel",
+          "lunch": "Local eatery in Vaishali",
+          "dinner": "Return to Patna"
+        },
+        "transport": {
+          "mode": "Hired cab — Rajgir → Pawapuri (35 km) → Vaishali (80 km) → Patna (55 km)"
+        },
+        "tips": [
+          "Pawapuri lake is stunning in winter with blooming lotus.",
+          "Vaishali is the birthplace of Lord Mahavira and also where Buddha gave his last sermon.",
+          "Combine both sites efficiently as they lie on Rajgir-Patna route."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Sasaram — The Afghan Tomb & Departure",
+        "description": "Visit the magnificent mausoleum of Sher Shah Suri before departing.",
+        "monuments": [
+          {
+            "name": "Tomb of Sher Shah Sori",
+            "city": "Sasaram",
+            "state": "Bihar",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.9432,
+            "lon": 84.0299,
+            "themes": [
+              "Heritage",
+              "Mughal",
+              "Architecture"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 2,
+            "ticket_price": "₹25/₹300",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.4,
+            "notes": "One of India's finest tombs — rises 46m from an artificial lake. Often called India's forgotten masterpiece."
+          }
+        ],
+        "meals": {
+          "breakfast": "At hotel",
+          "lunch": "Local dhaba in Sasaram",
+          "dinner": "At Varanasi or departure city"
+        },
+        "transport": {
+          "mode": "Hired cab Patna-Sasaram (~3.5 hrs, 160 km); onward to Varanasi (~2 hrs)"
+        },
+        "tips": [
+          "Sasaram is en route between Patna and Varanasi — ideal stop.",
+          "The tomb is accessible via a causeway over the lake.",
+          "Combine with Varanasi for a 5-day Bihar-UP circuit."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "IND-003",
+    "title": "Rajasthan Royal Odyssey — Forts, Palaces & Desert",
+    "trip_type": "Cultural & Heritage",
+    "duration_days": 7,
+    "destinations": [
+      "Jaipur",
+      "Chittorgarh",
+      "Udaipur"
+    ],
+    "themes": [
+      "Heritage",
+      "Rajput",
+      "Architecture",
+      "Royal"
+    ],
+    "difficulty": "Easy",
+    "budget_level": "Moderate to Luxury (₹4,000-₹12,000/day)",
+    "best_season": "October to March",
+    "notes": "Rajasthan is India's most popular tourist state. This route covers its most dramatic heritage — from the tragedy of Chittorgarh to the romance of Udaipur. Hire a private car for comfort.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Jaipur — The Pink City",
+        "description": "Explore Jaipur's iconic Pink City architecture, markets, and landmarks.",
+        "monuments": [
+          {
+            "name": "Hawa Mahal",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9239,
+            "lon": 75.8267,
+            "themes": [
+              "Heritage",
+              "Rajput"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹50/₹200",
+            "visiting_hours": "9AM-5PM",
+            "rating": 4.5,
+            "notes": "Best photographed from Windview Café across the street. Go early for best shots."
+          },
+          {
+            "name": "Albert Hall Museum",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9113,
+            "lon": 75.8171,
+            "themes": [
+              "Heritage",
+              "Museum"
+            ],
+            "arrival_time": "11:00 AM",
+            "duration_hrs": 2,
+            "ticket_price": "₹40/₹300",
+            "visiting_hours": "10AM-5PM",
+            "rating": 4.3,
+            "notes": "Stunning Indo-Saracenic building housing Rajasthani art and archaeology."
+          },
+          {
+            "name": "Isarlat Sargasooli",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9244,
+            "lon": 75.8183,
+            "themes": [
+              "Heritage"
+            ],
+            "arrival_time": "02:00 PM",
+            "duration_hrs": 1,
+            "ticket_price": "₹50",
+            "visiting_hours": "9AM-5PM",
+            "rating": 4.1,
+            "notes": "Climb 7 floors for the best aerial view of the walled pink city."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Lassiwala MI Road (famous lassi spot)",
+          "dinner": "1135 AD, Amer (near Amber Fort)"
+        },
+        "transport": {
+          "mode": "Auto/cab; hire a cycle-rickshaw in the walled city"
+        },
+        "tips": [
+          "Start with markets in the morning (Johari Bazaar for gems, Bapu for crafts).",
+          "Jaipur Literature Festival is held in Jan/Feb — a cultural highlight."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Jaipur Day 2 — Amber Fort & Surroundings",
+        "description": "Explore Amber Fort complex and more of the Jaipur region's heritage.",
+        "monuments": [
+          {
+            "name": "Isarlat Sargasooli",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.9244,
+            "lon": 75.8183,
+            "themes": [
+              "Heritage"
+            ],
+            "arrival_time": "08:00 AM",
+            "duration_hrs": 0.5,
+            "ticket_price": "₹50",
+            "visiting_hours": "9AM-5PM",
+            "rating": 4.1,
+            "notes": "Sunrise view of the walled city from the top."
+          }
+        ],
+        "meals": {
+          "breakfast": "Handi Restaurant",
+          "lunch": "Amber Fort cafeteria",
+          "dinner": "Spice Court, Jaipur"
+        },
+        "transport": {
+          "mode": "Cab to Amber Fort (~11 km from city)"
+        },
+        "tips": [
+          "Amber Fort elephant rides have been restricted — opt for jeep. Book online.",
+          "Light and Sound show at Amber Fort at 7 PM — spectacular.",
+          "Jaigarh Fort above Amber Fort is worth a separate visit."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Drive to Chittorgarh — Epic Rajput Citadel",
+        "description": "Drive to the ancient capital of Mewar — home to India's greatest fort.",
+        "monuments": [
+          {
+            "name": "Chittorgarh Fort",
+            "city": "Chittorgarh",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.884,
+            "lon": 74.6448,
+            "themes": [
+              "Heritage",
+              "Rajput",
+              "UNESCO"
+            ],
+            "arrival_time": "02:00 PM",
+            "duration_hrs": 3,
+            "ticket_price": "₹25/₹300",
+            "visiting_hours": "9:45AM-5PM",
+            "rating": 4.5,
+            "notes": "Start at Vijay Stambha (Tower of Victory) and work down to Padmini Palace. Spread over 700 acres."
+          },
+          {
+            "name": "Chittorgarh",
+            "city": "Chittorgarh",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.884,
+            "lon": 74.6448,
+            "themes": [
+              "Heritage",
+              "Rajput",
+              "UNESCO"
+            ],
+            "arrival_time": "02:00 PM",
+            "duration_hrs": 1,
+            "ticket_price": "₹25/₹300",
+            "visiting_hours": "9:45AM-5PM",
+            "rating": 4.5,
+            "notes": "The fort complex itself has 65 historic structures — take a guide."
+          },
+          {
+            "name": "Padmini Lake Palace",
+            "city": "Chittorgarh",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.8737,
+            "lon": 74.6447,
+            "themes": [
+              "Heritage",
+              "Rajput"
+            ],
+            "arrival_time": "04:30 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹10",
+            "visiting_hours": "9AM-6PM",
+            "rating": 4.4,
+            "notes": "Romantic lake palace — stand at the famous mirror where Alauddin Khilji supposedly glimpsed Queen Padmini."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel in Jaipur",
+          "lunch": "Jaipur highway dhaba",
+          "dinner": "Padmini Palace Hotel, Chittorgarh"
+        },
+        "transport": {
+          "mode": "Hired car Jaipur-Chittorgarh (~4 hrs, 310 km via NH48 + NH27)"
+        },
+        "tips": [
+          "Chittorgarh Fort is massive — hire a guide or e-vehicle for the 5 km internal circuit.",
+          "The light and sound show at Vijay Stambha is excellent.",
+          "Mewar Festival (March) is a brilliant time to visit."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chittorgarh to Udaipur — City of Lakes",
+        "description": "Drive to Udaipur — the most romantic city in Rajasthan.",
+        "monuments": [
+          {
+            "name": "City Palace",
+            "city": "Udaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.5764,
+            "lon": 73.6809,
+            "themes": [
+              "Heritage",
+              "Rajput"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 2.5,
+            "ticket_price": "₹30/₹250",
+            "visiting_hours": "9:30AM-5:30PM",
+            "rating": 4.6,
+            "notes": "The largest palace complex in Rajasthan — stunning lakeside architecture with panoramic lake views."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel in Chittorgarh",
+          "lunch": "On road",
+          "dinner": "Ambrai Restaurant (famous lakeside dining)"
+        },
+        "transport": {
+          "mode": "Hired car Chittorgarh-Udaipur (~2 hrs, 120 km)"
+        },
+        "tips": [
+          "City Palace Museum ticket is separate from the hotel section.",
+          "Book a sunset boat ride on Lake Pichola.",
+          "Udaipur has outstanding heritage hotels including Taj Lake Palace (on an island)."
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Udaipur Day 2 — Royal Palaces & Lakes",
+        "description": "Full day exploring Udaipur's magnificent lakes and palaces.",
+        "monuments": [
+          {
+            "name": "City Palace",
+            "city": "Udaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.5764,
+            "lon": 73.6809,
+            "themes": [
+              "Heritage",
+              "Rajput"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 2,
+            "ticket_price": "₹30/₹250",
+            "visiting_hours": "9:30AM-5:30PM",
+            "rating": 4.6,
+            "notes": "Second visit to complete the museum and reach the rooftop terraces."
+          },
+          {
+            "name": "Padmini Lake Palace",
+            "city": "Chittorgarh",
+            "state": "Rajasthan",
+            "country": "India",
+            "region": "Asia",
+            "lat": 24.8737,
+            "lon": 74.6447,
+            "themes": [
+              "Heritage",
+              "Rajput"
+            ],
+            "arrival_time": "12:00 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹10",
+            "visiting_hours": "9AM-6PM",
+            "rating": 4.4,
+            "notes": "Morning visit to Chittorgarh area before returning."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Jheel's Ginger Coffee Bar & Bakery",
+          "dinner": "Upre by 1559 AD (rooftop Lake Pichola view)"
+        },
+        "transport": {
+          "mode": "Auto/cycle-rickshaw in Udaipur city"
+        },
+        "tips": [
+          "Sunset from Sajjangarh (Monsoon Palace) is outstanding.",
+          "Take a boat to Jagmandir Island — a floating palace.",
+          "Book hotels near the old city for the best experience."
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Leisure & Culture — Crafts & Folk Arts",
+        "description": "Explore local crafts, miniature painting workshops and folk culture.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Natraj Dining Hall (traditional Rajasthani thali)",
+          "dinner": "Hotel Jagat Niwas rooftop"
+        },
+        "transport": {
+          "mode": "Walking in old city"
+        },
+        "tips": [
+          "Visit Shilpgram Crafts Village on weekends for live demonstrations.",
+          "Attend a Dharohar Folk Dance Show at Bagore Ki Haveli (7:30 PM daily).",
+          "Shop for miniature paintings, silver jewellery, and Bandhani fabric."
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Departure from Udaipur",
+        "description": "Morning at leisure, then transfer to Udaipur airport.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Cafe Edelweiss",
+          "dinner": "At departure city"
+        },
+        "transport": {
+          "mode": "Pre-booked cab to airport (15 km)"
+        },
+        "tips": [
+          "Udaipur Airport (UDR) has good connectivity to Delhi and Mumbai.",
+          "Book airport transfer in advance.",
+          "Carry Rajasthani souvenirs — mini palaces, blue pottery, lac bangles."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "IND-004",
+    "title": "Maharashtra Heritage Trail — Caves, Forts & Coastal Gems",
+    "trip_type": "Cultural & Heritage",
+    "duration_days": 5,
+    "destinations": [
+      "Pune",
+      "Mumbai",
+      "Aurangabad"
+    ],
+    "themes": [
+      "Heritage",
+      "Buddhist",
+      "UNESCO",
+      "Colonial",
+      "Coastal"
+    ],
+    "difficulty": "Easy",
+    "budget_level": "Moderate (₹2,500-₹5,000/day)",
+    "best_season": "October to March",
+    "notes": "Maharashtra's UNESCO trifecta — Ajanta, Ellora, and CST — make this one of India's richest heritage circuits. Avoid monsoon for cave visits (landslide risk).",
+    "days": [
+      {
+        "day": 1,
+        "title": "Pune — Mahatma Gandhi's Prison & Colonial Legacy",
+        "description": "Explore Pune's historic sites connected to India's freedom struggle.",
+        "monuments": [
+          {
+            "name": "Aga Khan Palace",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "region": "Asia",
+            "lat": 18.5526,
+            "lon": 73.901,
+            "themes": [
+              "Heritage",
+              "Freedom Movement"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 2,
+            "ticket_price": "₹15/₹200",
+            "visiting_hours": "9AM-5:30PM",
+            "rating": 4.4,
+            "notes": "Gandhi's memorial prison. Humble yet deeply moving. Kasturba Gandhi is buried in the garden."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Malaka Spice, Pune",
+          "dinner": "Sujata Mastani, Pune"
+        },
+        "transport": {
+          "mode": "Auto/cab in Pune city"
+        },
+        "tips": [
+          "Pune has a vibrant café culture — explore Camp area in the evening.",
+          "Osho International Meditation Resort is nearby for those interested.",
+          "Peshwa-era wadas and Aga Khan Palace make for a full day."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mumbai — India's Maximum City",
+        "description": "Explore Bollywood's home, the Gateway of India, and colonial-era grandeur.",
+        "monuments": [
+          {
+            "name": "Gateway of India",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "region": "Asia",
+            "lat": 18.922,
+            "lon": 72.8347,
+            "themes": [
+              "Heritage",
+              "Colonial"
+            ],
+            "arrival_time": "10:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "24 hours",
+            "rating": 4.5,
+            "notes": "Iconic basalt arch facing the Arabian Sea. Take a ferry to Elephanta Caves from here."
+          },
+          {
+            "name": "Chhatrapati Shivaji Terminus",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "region": "Asia",
+            "lat": 18.94,
+            "lon": 72.8353,
+            "themes": [
+              "Heritage",
+              "Colonial",
+              "UNESCO"
+            ],
+            "arrival_time": "12:30 PM",
+            "duration_hrs": 1,
+            "ticket_price": "Free",
+            "visiting_hours": "24 hours",
+            "rating": 4.6,
+            "notes": "UNESCO-listed Victorian Gothic railway station — one of the finest in the world. Still operational."
+          },
+          {
+            "name": "Chhatrapati Shivaji Statue",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "region": "Asia",
+            "lat": 18.9365,
+            "lon": 72.8371,
+            "themes": [
+              "Heritage",
+              "Monument"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 1,
+            "ticket_price": "Free",
+            "visiting_hours": "24 hours",
+            "rating": 4.3,
+            "notes": "Proposed monument to the Maratha king — currently one of the world's largest statues under development."
+          }
+        ],
+        "meals": {
+          "breakfast": "Pune hotel",
+          "lunch": "Mahesh Lunch Home, Mumbai (seafood)",
+          "dinner": "Leopold Café, Colaba"
+        },
+        "transport": {
+          "mode": "Train Pune-Mumbai (~3.5 hrs Deccan Express); local train/cab in Mumbai"
+        },
+        "tips": [
+          "Gateway of India is free but crowded — go morning or evening.",
+          "Marine Drive (Queen's Necklace) is a 15-min walk from CST.",
+          "Book Elephanta Caves ferry from Gateway Pier."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly/Drive to Aurangabad — Gateway to UNESCO Caves",
+        "description": "Travel to Aurangabad and explore the extraordinary Ellora Caves.",
+        "monuments": [
+          {
+            "name": "Ellora Caves",
+            "city": "Aurangabad",
+            "state": "Maharashtra",
+            "country": "India",
+            "region": "Asia",
+            "lat": 20.0269,
+            "lon": 75.1797,
+            "themes": [
+              "Heritage",
+              "UNESCO",
+              "Religious"
+            ],
+            "arrival_time": "01:00 PM",
+            "duration_hrs": 4,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.7,
+            "notes": "32 rock-cut cave temples. Kailasa Temple (Cave 16) is the world's largest rock-cut structure. Spectacular."
+          }
+        ],
+        "meals": {
+          "breakfast": "Mumbai hotel",
+          "lunch": "MTDC Aurangabad cafeteria",
+          "dinner": "Bhoj Restaurant, Aurangabad"
+        },
+        "transport": {
+          "mode": "Flight Mumbai-Aurangabad (~45 min) or overnight bus (~8 hrs)"
+        },
+        "tips": [
+          "Ellora is closed on Tuesdays.",
+          "Kailasa Temple alone needs 2 hours — it's mind-blowing.",
+          "Aurangabad has excellent cave hotels and MTDC resort nearby."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ajanta Caves — Ancient Buddhist Masterpieces",
+        "description": "Drive to Ajanta and marvel at 2,000-year-old Buddhist cave paintings.",
+        "monuments": [
+          {
+            "name": "Ajanta Caves",
+            "city": "Aurangabad",
+            "state": "Maharashtra",
+            "country": "India",
+            "region": "Asia",
+            "lat": 20.5519,
+            "lon": 75.7033,
+            "themes": [
+              "Heritage",
+              "Buddhist",
+              "UNESCO"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 3,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "9AM-5:30PM",
+            "rating": 4.7,
+            "notes": "UNESCO Heritage caves. Paintings in Cave 1, 2, 16, 17 are finest. Bring a torch."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel Aurangabad",
+          "lunch": "Ajanta MTDC cafeteria",
+          "dinner": "Swad Restaurant, Aurangabad"
+        },
+        "transport": {
+          "mode": "Hired cab Aurangabad to Ajanta (102 km, ~2.5 hrs each way)"
+        },
+        "tips": [
+          "Ajanta is closed on Mondays.",
+          "Special torches available at ticket counter to illuminate cave paintings.",
+          "Start early — last entry is at 4:30 PM.",
+          "Combine Ajanta + Ellora on separate days — both need serious time."
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Departure from Aurangabad",
+        "description": "Morning optional visit before departure.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Airport/station",
+          "dinner": "Home city"
+        },
+        "transport": {
+          "mode": "Cab to Aurangabad Airport or railway station"
+        },
+        "tips": [
+          "Aurangabad airport (IXU) connects to Mumbai and Delhi.",
+          "Buy Paithani silk sarees and Himroo shawls — Aurangabad specialties.",
+          "Bibi Ka Maqbara (Mini Taj) worth a morning stop before departure."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "IND-005",
+    "title": "Goa — Portuguese Legacy, Forts & Sun-Kissed Beaches",
+    "trip_type": "Beach & Heritage",
+    "duration_days": 4,
+    "destinations": [
+      "Old Goa",
+      "North Goa",
+      "South Goa"
+    ],
+    "themes": [
+      "Heritage",
+      "Colonial",
+      "Religious",
+      "Beach",
+      "Fort"
+    ],
+    "difficulty": "Easy",
+    "budget_level": "Budget to Luxury (₹2,000-₹8,000/day)",
+    "best_season": "November to March",
+    "notes": "Goa is India's most beloved beach destination. December-January is peak season — book hotels 2-3 months ahead. Monsoon (Jun-Sep) closes some beach clubs but is lush and green.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old Goa — UNESCO Churches & Colonial Heritage",
+        "description": "Explore the magnificent churches and cathedrals of Old Goa — the Rome of the East.",
+        "monuments": [
+          {
+            "name": "Basilica of Bom Jesus",
+            "city": "Old Goa",
+            "state": "Goa",
+            "country": "India",
+            "region": "Asia",
+            "lat": 15.5008,
+            "lon": 73.9088,
+            "themes": [
+              "Religious",
+              "Colonial",
+              "UNESCO"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "9AM-6:30PM",
+            "rating": 4.6,
+            "notes": "Houses the preserved body of St. Francis Xavier. UNESCO listed. Baroque masterpiece."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Ritz Classic, Panaji (authentic Goan)",
+          "dinner": "Soro — The Village Pub, Assagao"
+        },
+        "transport": {
+          "mode": "Scooter rental (₹300-400/day) or cab"
+        },
+        "tips": [
+          "Old Goa churches are all within walking distance of each other.",
+          "Dress modestly for churches — no shorts or sleeveless.",
+          "Se Cathedral nearby is the largest church in Asia."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "North Goa — Forts, Beaches & Bohemian Vibes",
+        "description": "Explore North Goa's iconic Portuguese forts and vibrant beach culture.",
+        "monuments": [
+          {
+            "name": "Chapora Fort",
+            "city": "Vagator",
+            "state": "Goa",
+            "country": "India",
+            "region": "Asia",
+            "lat": 15.6046,
+            "lon": 73.7344,
+            "themes": [
+              "Heritage",
+              "Fort"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "9:30AM-5:30PM",
+            "rating": 4.2,
+            "notes": "Famous Dil Chahta Hai fort — offers stunning panoramic views of Vagator Beach."
+          },
+          {
+            "name": "Fort Aguada",
+            "city": "Sinquerim",
+            "state": "Goa",
+            "country": "India",
+            "region": "Asia",
+            "lat": 15.4923,
+            "lon": 73.7712,
+            "themes": [
+              "Heritage",
+              "Fort",
+              "Colonial"
+            ],
+            "arrival_time": "12:00 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "9:30AM-6PM",
+            "rating": 4.2,
+            "notes": "Best-preserved Portuguese fort in Goa with a 4-storey lighthouse. Overlooking Sinquerim Beach."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Britto's, Baga Beach",
+          "dinner": "Curlies, Anjuna Beach"
+        },
+        "transport": {
+          "mode": "Scooter or hired cab — North Goa sights are 10-20 km apart"
+        },
+        "tips": [
+          "Chapora Fort is best at sunrise/sunset — the view over Vagator is stunning.",
+          "Fort Aguada has both the fort on top and a beach section below.",
+          "Anjuna Flea Market on Wednesdays is a classic Goa experience."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "South Goa — Daman Extension",
+        "description": "Drive south to Daman for Portuguese colonial forts and quiet beaches.",
+        "monuments": [
+          {
+            "name": "Daman",
+            "city": "Daman",
+            "state": "Daman & Diu",
+            "country": "India",
+            "region": "Asia",
+            "lat": 20.3974,
+            "lon": 72.8328,
+            "themes": [
+              "Heritage",
+              "Colonial",
+              "Beach"
+            ],
+            "arrival_time": "10:00 AM",
+            "duration_hrs": 3,
+            "ticket_price": "Free",
+            "visiting_hours": "24 hours",
+            "rating": 4.1,
+            "notes": "Explore Moti Daman Fort, the Lighthouse, and Jampore Beach in this quiet Portuguese enclave."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Miramar Restaurant, Daman (seafood)",
+          "dinner": "Back in Goa — La Plage, Aswem"
+        },
+        "transport": {
+          "mode": "Hired cab Goa to Daman (~3 hrs, 170 km); return same day"
+        },
+        "tips": [
+          "Daman is separate from Goa but shares Portuguese colonial heritage.",
+          "Diu is 3 hrs from Daman — consider extending for the Diu Museum.",
+          "Daman has quiet, clean beaches — far less crowded than Goa."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Leisure & Departure",
+        "description": "Morning leisure, last beach visit, departure.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Fisherman's Wharf, Cavelossim",
+          "dinner": "Airport/home city"
+        },
+        "transport": {
+          "mode": "Cab to Goa Airport (Dabolim or Mopa)"
+        },
+        "tips": [
+          "Goa has two airports — confirm which one your flight uses.",
+          "Buy cashews, Goan spices, and feni (local spirit) as souvenirs.",
+          "Book airport transfer in advance especially during peak season (Dec-Jan)."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "IND-006",
+    "title": "South India Temple Grandeur — Karnataka, Tamil Nadu & Kerala",
+    "trip_type": "Religious & Heritage",
+    "duration_days": 6,
+    "destinations": [
+      "Hampi",
+      "Thanjavur",
+      "Mysore",
+      "Kasaragod"
+    ],
+    "themes": [
+      "Religious",
+      "Heritage",
+      "UNESCO",
+      "Ancient",
+      "Dravidian Architecture"
+    ],
+    "difficulty": "Moderate",
+    "budget_level": "Budget to Moderate (₹2,000-₹4,000/day)",
+    "best_season": "October to March",
+    "notes": "South India's temple architecture is unlike anything in the world. This circuit blends Dravidian temples, Vijayanagara ruins, and Mughal-era coastal forts across 3 states.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hampi — Lost City of the Vijayanagara Empire",
+        "description": "Arrive at Hampi — one of the most extraordinary archaeological sites in the world.",
+        "monuments": [
+          {
+            "name": "Hampi",
+            "city": "Hampi",
+            "state": "Karnataka",
+            "country": "India",
+            "region": "Asia",
+            "lat": 15.3352,
+            "lon": 76.46,
+            "themes": [
+              "Heritage",
+              "UNESCO",
+              "Ancient"
+            ],
+            "arrival_time": "08:00 AM",
+            "duration_hrs": 6,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.7,
+            "notes": "UNESCO Heritage site. Take a guide — 50+ monuments scattered over 25 sq km. Virupaksha Temple, Vittala Temple, and Elephant Stables are highlights."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Mango Tree Restaurant, Hampi (riverside)",
+          "dinner": "Laughing Buddha, Hampi"
+        },
+        "transport": {
+          "mode": "Bicycle rental (₹100/day) or mopeds — best way to explore Hampi"
+        },
+        "tips": [
+          "Hampi is divided by the Tungabhadra River — Coracle boats cross between sides.",
+          "Vittala Temple's stone chariot and musical pillars are unmissable.",
+          "Hampi Utsav festival in November is a cultural highlight."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hampi Day 2 & Drive to Mysore",
+        "description": "Complete Hampi exploration and drive to the royal city of Mysore.",
+        "monuments": [
+          {
+            "name": "Mysore Palace",
+            "city": "Mysore",
+            "state": "Karnataka",
+            "country": "India",
+            "region": "Asia",
+            "lat": 12.3052,
+            "lon": 76.6552,
+            "themes": [
+              "Heritage",
+              "Royal"
+            ],
+            "arrival_time": "05:30 PM",
+            "duration_hrs": 2.5,
+            "ticket_price": "₹100/₹200",
+            "visiting_hours": "10AM-5:30PM",
+            "rating": 4.7,
+            "notes": "The grandest palace in Karnataka — especially stunning during Dasara (Oct) when 100,000 lights illuminate it."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "En route highway",
+          "dinner": "Lalitha Mahal Palace Hotel (heritage dining)"
+        },
+        "transport": {
+          "mode": "Hired cab Hampi-Mysore (~5 hrs, 250 km)"
+        },
+        "tips": [
+          "Mysore Palace: Sunday and national holidays have illumination from 7-7:45 PM.",
+          "The Dasara festival (Oct) is the best time to visit Mysore.",
+          "Book heritage stay in Mysore for a regal experience."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Mysore — Royal Heritage & Wildlife",
+        "description": "Full day exploring Mysore's royal and cultural heritage.",
+        "monuments": [
+          {
+            "name": "Mysore Palace",
+            "city": "Mysore",
+            "state": "Karnataka",
+            "country": "India",
+            "region": "Asia",
+            "lat": 12.3052,
+            "lon": 76.6552,
+            "themes": [
+              "Heritage",
+              "Royal"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 2,
+            "ticket_price": "₹100/₹200",
+            "visiting_hours": "10AM-5:30PM",
+            "rating": 4.7,
+            "notes": "Explore the interior with Durbar Hall, golden throne, and royal art."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Hotel RRR (famous rice plates)",
+          "dinner": "The Old House, Mysore"
+        },
+        "transport": {
+          "mode": "Auto/cycle-rickshaw in city"
+        },
+        "tips": [
+          "Brindavan Gardens illumination show at 7:30 PM is magical.",
+          "Mysore is famous for silk sarees, sandalwood products, and agarbatti.",
+          "Namdroling Monastery (Golden Temple) 70 km away — Buddha temple with stunning Tibetan art."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Fly to Chennai, Drive to Thanjavur — Temple Town",
+        "description": "Fly to Chennai and drive to Thanjavur — home of the magnificent Brihadeshwara Temple.",
+        "monuments": [
+          {
+            "name": "Brihadeshwara Temple",
+            "city": "Thanjavur",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "region": "Asia",
+            "lat": 10.783,
+            "lon": 79.1317,
+            "themes": [
+              "Religious",
+              "Heritage",
+              "UNESCO"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "Free",
+            "visiting_hours": "6AM-8:30PM",
+            "rating": 4.7,
+            "notes": "UNESCO Heritage temple. The 216 ft vimana (tower) casts no shadow at noon. Built 1000 years ago — engineering marvel."
+          },
+          {
+            "name": "Tanjavur Temple",
+            "city": "Thanjavur",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "region": "Asia",
+            "lat": 10.783,
+            "lon": 79.1317,
+            "themes": [
+              "Religious",
+              "Heritage"
+            ],
+            "arrival_time": "04:30 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "Free",
+            "visiting_hours": "6AM-8:30PM",
+            "rating": 4.6,
+            "notes": "Explore the surrounding temple complex and Saraswati Mahal Library."
+          }
+        ],
+        "meals": {
+          "breakfast": "Mysore hotel",
+          "lunch": "En route Chennai",
+          "dinner": "Sathars, Thanjavur"
+        },
+        "transport": {
+          "mode": "Flight Mysore/Bangalore-Chennai (~1 hr); cab Chennai-Thanjavur (~4 hrs, 330 km)"
+        },
+        "tips": [
+          "Thanjavur Brihadeshwara Temple is best in morning light — golden stone glows brilliantly.",
+          "The temple is a working Shaivite shrine — follow dress code.",
+          "Thanjavur is famous for Tanjore painting, bronze idols, and veena."
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Thanjavur to Kasaragod — Bekal Fort",
+        "description": "Drive to Kerala's northernmost district to visit the magnificent seaside Bekal Fort.",
+        "monuments": [
+          {
+            "name": "Bekal Fort",
+            "city": "Kasaragod",
+            "state": "Kerala",
+            "country": "India",
+            "region": "Asia",
+            "lat": 12.3924,
+            "lon": 75.0298,
+            "themes": [
+              "Heritage",
+              "Fort"
+            ],
+            "arrival_time": "02:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "₹25/₹200",
+            "visiting_hours": "9AM-5:30PM",
+            "rating": 4.4,
+            "notes": "India's largest fort in Kerala — spectacular views of the Arabian Sea. Keerthi Chakra shape when viewed from above."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel Thanjavur",
+          "lunch": "En route Calicut/Kozhikode",
+          "dinner": "Bekal Boat Stay or Vivanta Bekal (resort)"
+        },
+        "transport": {
+          "mode": "Hired cab or bus Thanjavur-Kasaragod (~8 hrs, 450 km via Calicut)"
+        },
+        "tips": [
+          "Bekal Fort at sunset is magical — sea surrounds three sides.",
+          "Bekal Beach next to the fort is clean and uncrowded.",
+          "Bekal is best base for exploring North Kerala's heritage."
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Departure from Mangalore / Kozhikode",
+        "description": "Morning at leisure, then depart from nearest airport.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Paragon, Kozhikode (famous biryani)",
+          "dinner": "Home city"
+        },
+        "transport": {
+          "mode": "Cab to Mangalore (IXE) or Kozhikode (CCJ) airport"
+        },
+        "tips": [
+          "Kozhikode is famous for Malabar biryani — don't miss it.",
+          "Buy Kashmiri handicrafts, sandalwood products, and Kerala spices.",
+          "Bekal-Kozhikode drive along NH66 coastal highway is scenic."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "INTL-001",
+    "title": "Wonders of the World — Grand International Tour",
+    "trip_type": "International & Adventure",
+    "duration_days": 10,
+    "destinations": [
+      "Paris",
+      "Rome",
+      "Cairo",
+      "Dubai",
+      "Agra"
+    ],
+    "themes": [
+      "Heritage",
+      "UNESCO",
+      "Icon",
+      "Ancient",
+      "Modern",
+      "Architecture"
+    ],
+    "difficulty": "Moderate",
+    "budget_level": "Premium (USD 200-500/day)",
+    "best_season": "Year-round (varies by country)",
+    "notes": "This premium itinerary covers 5 of the 7 New Wonders of the World plus UNESCO iconic landmarks. Book flights, Taj Mahal, Eiffel Tower, Colosseum, and Burj Khalifa tickets months in advance.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Paris — The Iron Lady",
+        "description": "Arrive in Paris and visit the world's most visited monument.",
+        "monuments": [
+          {
+            "name": "Eiffel Tower",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "country": "France",
+            "region": "Europe",
+            "lat": 48.8584,
+            "lon": 2.2945,
+            "themes": [
+              "Heritage",
+              "Icon",
+              "Architecture"
+            ],
+            "arrival_time": "10:00 AM",
+            "duration_hrs": 3,
+            "ticket_price": "EUR 29.40",
+            "visiting_hours": "9:30AM-11:45PM",
+            "rating": 4.7,
+            "notes": "Book tickets online 2-3 months in advance. Top floor offers 360° view of Paris. Magical at night."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Café de Flore, Saint-Germain",
+          "dinner": "Jules Verne (inside Eiffel Tower — book 3 months ahead)"
+        },
+        "transport": {
+          "mode": "Metro Line 6 to Trocadéro; RER C to Champ de Mars"
+        },
+        "tips": [
+          "Book Eiffel Tower tickets online at least 6-8 weeks in advance.",
+          "Best photos from Trocadéro Gardens (across the river).",
+          "Night illumination runs every hour after sunset — spectacular."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Paris Day 2 — Louvre & Montmartre",
+        "description": "Explore world's greatest art museum and the bohemian hilltop of Montmartre.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Café in Le Marais",
+          "lunch": "At the Louvre cafeteria",
+          "dinner": "Le Relais de l'Entrecôte (famous steak-frites)"
+        },
+        "transport": {
+          "mode": "Metro"
+        },
+        "tips": [
+          "Louvre has 35,000 works — pre-plan which wings to visit.",
+          "Mona Lisa is smaller than expected — arrive early to avoid crowds.",
+          "Montmartre's Sacré-Cœur offers another stunning Paris panorama."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Rome — The Eternal City",
+        "description": "Fly to Rome and visit the greatest amphitheatre ever built.",
+        "monuments": [
+          {
+            "name": "Roman Colosseum",
+            "city": "Rome",
+            "state": "Lazio",
+            "country": "Italy",
+            "region": "Europe",
+            "lat": 41.8902,
+            "lon": 12.4922,
+            "themes": [
+              "Heritage",
+              "Ancient",
+              "UNESCO"
+            ],
+            "arrival_time": "02:00 PM",
+            "duration_hrs": 3,
+            "ticket_price": "EUR 18",
+            "visiting_hours": "9AM-7PM",
+            "rating": 4.7,
+            "notes": "UNESCO Heritage site. Book skip-the-line tickets online. Gladiator-era engineering marvel."
+          }
+        ],
+        "meals": {
+          "breakfast": "Paris hotel then airport",
+          "lunch": "At Rome airport or café near Colosseum",
+          "dinner": "La Pergola (Rome's only 3-Michelin-star)"
+        },
+        "transport": {
+          "mode": "Flight Paris-Rome (~2 hrs); Metro B to Colosseo"
+        },
+        "tips": [
+          "Book Colosseum + Roman Forum + Palatine Hill combo ticket.",
+          "The underground (hypogeum) requires a separate premium ticket.",
+          "Trevi Fountain and Spanish Steps are walking distance from city centre."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Rome Day 2 — Vatican & Ancient Ruins",
+        "description": "Explore Vatican City and more of Rome's ancient splendour.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Il Sorpasso, Prati (near Vatican)",
+          "dinner": "Checchino dal 1887 (traditional Roman)"
+        },
+        "transport": {
+          "mode": "Walking + Metro"
+        },
+        "tips": [
+          "Vatican Museums require advance booking — Sistine Chapel is inside.",
+          "Pantheon is free — arrive early.",
+          "Roman Forum connects to Palatine Hill — allow 3-4 hours."
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Cairo — The Last Wonder of the Ancient World",
+        "description": "Fly to Cairo and witness the only surviving ancient wonder of the world.",
+        "monuments": [
+          {
+            "name": "Pyramids of Giza",
+            "city": "Giza",
+            "state": "Cairo",
+            "country": "Egypt",
+            "region": "Africa",
+            "lat": 29.9792,
+            "lon": 31.1342,
+            "themes": [
+              "Heritage",
+              "Ancient",
+              "UNESCO"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 4,
+            "ticket_price": "EGP 360",
+            "visiting_hours": "8AM-5PM",
+            "rating": 4.8,
+            "notes": "The Great Pyramid, Pyramid of Khafre, Pyramid of Menkaure, and the Great Sphinx. Hire a licensed guide."
+          }
+        ],
+        "meals": {
+          "breakfast": "Rome hotel then airport",
+          "lunch": "Koshary Abou Tarek (famous Egyptian street food)",
+          "dinner": "Nile-view restaurant at Sofitel Cairo"
+        },
+        "transport": {
+          "mode": "Flight Rome-Cairo (~3 hrs); taxi to Giza (~1 hr from downtown Cairo)"
+        },
+        "tips": [
+          "Camel rides near Pyramids — negotiate price firmly before mounting.",
+          "Sound and Light Show at Pyramids nightly — spectacular.",
+          "Avoid unofficial guides at the gate — only use licensed ones."
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Cairo Day 2 — Egyptian Museum & Old Cairo",
+        "description": "Explore the world's finest collection of ancient Egyptian artefacts.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Sequoia, Zamalek (Nile views)",
+          "dinner": "Naguib Mahfouz Café, Khan el-Khalili (historic bazaar)"
+        },
+        "transport": {
+          "mode": "Taxi/Uber in Cairo"
+        },
+        "tips": [
+          "Egyptian Museum has Tutankhamun's gold mask — unmissable.",
+          "Khan el-Khalili bazaar is a sensory overload — bargain hard.",
+          "Book the Grand Egyptian Museum (GEM) if open — largest in the world."
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Dubai — Touching the Clouds",
+        "description": "Fly to Dubai and ascend the world's tallest building.",
+        "monuments": [
+          {
+            "name": "Burj Khalifa",
+            "city": "Dubai",
+            "state": "Dubai",
+            "country": "UAE",
+            "region": "Middle East",
+            "lat": 25.1972,
+            "lon": 55.2744,
+            "themes": [
+              "Modern",
+              "Architecture",
+              "Icon"
+            ],
+            "arrival_time": "06:00 PM",
+            "duration_hrs": 3,
+            "ticket_price": "AED 149+",
+            "visiting_hours": "8:30AM-11PM",
+            "rating": 4.7,
+            "notes": "Book the 124th or 148th floor 'At the Top' tickets online. Sunset visit gives day + night views."
+          }
+        ],
+        "meals": {
+          "breakfast": "Cairo hotel then airport",
+          "lunch": "At Dubai Mall (world's largest mall, connected to Burj Khalifa)",
+          "dinner": "Atmosphere (on 122nd floor of Burj Khalifa)"
+        },
+        "transport": {
+          "mode": "Flight Cairo-Dubai (~3 hrs); Metro Red Line to Burj Khalifa/Dubai Mall"
+        },
+        "tips": [
+          "Book Burj Khalifa tickets well in advance — sunset slots sell out fast.",
+          "Dubai Fountain show at Dubai Mall every 30 min from 6 PM — free and spectacular.",
+          "Dubai Frame and Museum of the Future are alternative modern icons."
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Dubai Day 2 — Gold Souk & Desert Safari",
+        "description": "Explore traditional Dubai before a classic desert safari experience.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Al Fanar (traditional Emirati food)",
+          "dinner": "Desert safari BBQ dinner"
+        },
+        "transport": {
+          "mode": "Taxi/Metro"
+        },
+        "tips": [
+          "Gold Souk: buy gold by weight — it's among cheapest in world.",
+          "Desert safari: 4WD dune bashing, camel ride, falconry, and BBQ dinner.",
+          "Old Dubai (Deira, Bur Dubai) and the Abra (water taxi) are authentic old-city experiences."
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Fly to Agra — The Taj Mahal",
+        "description": "Fly to India and witness the greatest monument to love — the Taj Mahal.",
+        "monuments": [
+          {
+            "name": "Taj Mahal",
+            "city": "Agra",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.1751,
+            "lon": 78.0421,
+            "themes": [
+              "Heritage",
+              "UNESCO",
+              "Mughal"
+            ],
+            "arrival_time": "06:00 AM",
+            "duration_hrs": 3,
+            "ticket_price": "₹50/₹1100",
+            "visiting_hours": "6AM-6:30PM",
+            "rating": 4.9,
+            "notes": "The world's most beautiful building. Sunrise visit is the most iconic — white marble glows in pink-gold light."
+          }
+        ],
+        "meals": {
+          "breakfast": "Dubai hotel then airport",
+          "lunch": "Pind Balluchi, Agra",
+          "dinner": "Esphahan at Oberoi Amarvilas (Taj-view dining)"
+        },
+        "transport": {
+          "mode": "Flight Dubai-Delhi (~3 hrs); cab Delhi-Agra (~3.5 hrs via Yamuna Expressway)"
+        },
+        "tips": [
+          "Book Taj Mahal tickets at asiagraticketing.nic.in — no same-day cash tickets now.",
+          "The Taj is most beautiful at sunrise and in full moon nights (special tickets).",
+          "Stay at Oberoi Amarvilas for a Taj-view room — a bucket list experience."
+        ]
+      },
+      {
+        "day": 10,
+        "title": "Agra to Delhi — Departure",
+        "description": "Morning at Fatehpur Sikri, then fly home from Delhi.",
+        "monuments": [
+          {
+            "name": "Fatehpur Sikri",
+            "city": "Fatehpur Sikri",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.0944,
+            "lon": 77.666,
+            "themes": [
+              "Heritage",
+              "Mughal",
+              "UNESCO"
+            ],
+            "arrival_time": "08:00 AM",
+            "duration_hrs": 2,
+            "ticket_price": "₹40/₹600",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.5,
+            "notes": "Akbar's abandoned red sandstone ghost city — on the way from Agra to Delhi."
+          },
+          {
+            "name": "Buland Darwaza",
+            "city": "Fatehpur Sikri",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 27.0943,
+            "lon": 77.6608,
+            "themes": [
+              "Heritage",
+              "Mughal"
+            ],
+            "arrival_time": "08:30 AM",
+            "duration_hrs": 1,
+            "ticket_price": "₹40",
+            "visiting_hours": "6AM-6PM",
+            "rating": 4.6,
+            "notes": "The magnificent Victory Gate of Fatehpur Sikri."
+          }
+        ],
+        "meals": {
+          "breakfast": "Agra hotel",
+          "lunch": "En route to Delhi",
+          "dinner": "At Delhi airport or home city"
+        },
+        "transport": {
+          "mode": "Cab Agra-Fatehpur Sikri (~40 min) then Sikri-Delhi (~3.5 hrs)"
+        },
+        "tips": [
+          "Fatehpur Sikri is 40 km from Agra — perfect en-route stop.",
+          "Check in 3 hours before international departure from Delhi T3.",
+          "This 10-day itinerary covers 5 countries and 4 continents of heritage."
+        ]
+      }
+    ]
+  },
+  {
+    "itinerary_id": "IND-007",
+    "title": "Nawabi Grandeur — Hyderabad & Lucknow",
+    "trip_type": "Cultural & Heritage",
+    "duration_days": 4,
+    "destinations": [
+      "Hyderabad",
+      "Lucknow"
+    ],
+    "themes": [
+      "Heritage",
+      "Islamic",
+      "Nawabi",
+      "Architecture",
+      "Food Culture"
+    ],
+    "difficulty": "Easy",
+    "budget_level": "Moderate (₹2,500-₹5,000/day)",
+    "best_season": "October to March",
+    "notes": "Hyderabad and Lucknow are India's two great Nawabi cities — where Mughal refinement met regional culture to create unique food, language, and architecture. Biryani in both cities is a pilgrimage.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hyderabad — The City of Pearls",
+        "description": "Explore the magnificent Nizam-era monuments of Hyderabad.",
+        "monuments": [
+          {
+            "name": "Charminar",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "region": "Asia",
+            "lat": 17.3611,
+            "lon": 78.4747,
+            "themes": [
+              "Heritage",
+              "Islamic"
+            ],
+            "arrival_time": "09:00 AM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹25/₹300",
+            "visiting_hours": "9AM-5:30PM",
+            "rating": 4.5,
+            "notes": "The iconic four-minaret monument in the heart of the old city — surrounded by bustling bazaars."
+          },
+          {
+            "name": "Falaknuma Palace",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "region": "Asia",
+            "lat": 17.3315,
+            "lon": 78.4649,
+            "themes": [
+              "Heritage",
+              "Royal",
+              "Architecture"
+            ],
+            "arrival_time": "03:00 PM",
+            "duration_hrs": 3,
+            "ticket_price": "₹5000+ (heritage lunch/dinner)",
+            "visiting_hours": "By reservation",
+            "rating": 4.7,
+            "notes": "Reserve in advance for heritage lunch/dinner/tour — one of India's most opulent palaces. Jacquar III furniture, Crystal dining table, and Paigah tombs."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Shadab Hotel (famous biryani near Charminar)",
+          "dinner": "At Falaknuma Palace (pre-booked heritage dinner)"
+        },
+        "transport": {
+          "mode": "Auto/cab; Charminar is best explored on foot"
+        },
+        "tips": [
+          "Charminar area: Laad Bazaar for bangles, Pathar Gatti for pearls.",
+          "Book Falaknuma Palace heritage dinner well in advance (₹5,000+ per person).",
+          "Chowmahalla Palace nearby is another Nizam-era gem."
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hyderabad Day 2 — Golconda Fort & Ramoji",
+        "description": "Explore Golconda Fort and more of Hyderabad's layered heritage.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Hotel",
+          "lunch": "Bawarchi Restaurant (famous biryani)",
+          "dinner": "Paradise Restaurant (legendary Hyderabadi biryani)"
+        },
+        "transport": {
+          "mode": "Cab within Hyderabad"
+        },
+        "tips": [
+          "Golconda Fort: Sound & Light show at 7 PM is excellent.",
+          "Ramoji Film City is a full-day theme park for Bollywood fans.",
+          "Salar Jung Museum has one of the world's largest one-man art collections."
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Lucknow — The City of Nawabs",
+        "description": "Fly to Lucknow and explore its magnificent Nawabi imambara complexes.",
+        "monuments": [
+          {
+            "name": "Bara Imambara",
+            "city": "Lucknow",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.8686,
+            "lon": 80.9101,
+            "themes": [
+              "Heritage",
+              "Islamic"
+            ],
+            "arrival_time": "01:00 PM",
+            "duration_hrs": 2,
+            "ticket_price": "₹25/₹500",
+            "visiting_hours": "6AM-5PM",
+            "rating": 4.5,
+            "notes": "Largest hall without supporting beams — architectural wonder. The Bhulbhulaiya (maze) on the roof is a highlight."
+          },
+          {
+            "name": "Chhota Imambara",
+            "city": "Lucknow",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "region": "Asia",
+            "lat": 26.8745,
+            "lon": 80.9019,
+            "themes": [
+              "Heritage",
+              "Islamic"
+            ],
+            "arrival_time": "03:30 PM",
+            "duration_hrs": 1.5,
+            "ticket_price": "₹25/₹500",
+            "visiting_hours": "6AM-5PM",
+            "rating": 4.4,
+            "notes": "Palace of Lights — stunning Zardozi chandeliers and European-style architecture. More ornate than Bara Imambara."
+          }
+        ],
+        "meals": {
+          "breakfast": "Hyderabad hotel then airport",
+          "lunch": "At Lucknow hotel",
+          "dinner": "Dastarkhwan (famous Lucknow awadhi)"
+        },
+        "transport": {
+          "mode": "Flight Hyderabad-Lucknow (~1.5 hrs); cab from airport"
+        },
+        "tips": [
+          "Both imambaras are best explored with an official guide.",
+          "The Bhulbhulaiya (maze) at Bara Imambara: stay with the group to avoid getting lost.",
+          "Lucknow has the most refined form of Hindustani music, dance, and cuisine."
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Lucknow Culture & Departure",
+        "description": "Explore Lucknow's famous food culture and heritage before departure.",
+        "monuments": [],
+        "meals": {
+          "breakfast": "Tunday Kababi (legendary since 1905)",
+          "lunch": "Idris Biryani, Lucknow",
+          "dinner": "At airport or home city"
+        },
+        "transport": {
+          "mode": "Auto/cab; walking in Hazratganj"
+        },
+        "tips": [
+          "Tunday Kababi's galauti kebab is among India's finest foods.",
+          "Chikan embroidery work is Lucknow's most famous craft — buy it in Hazratganj.",
+          "Ambedkar Park and Residency are other heritage spots.",
+          "Lucknow Airport (LKO) connects to major Indian cities."
+        ]
+      }
+    ]
+  }
+]

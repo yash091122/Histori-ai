@@ -1,0 +1,130 @@
+[
+  {
+    "_id": {
+      "$oid": "txn100000000000000000001"
+    },
+    "userId": "64b100000000000000000001",
+    "transactionId": "TXN00012024",
+    "amount": 1999.0,
+    "paymentMethod": "UPI",
+    "phoneNumber": "+91-9876543210",
+    "plan": {
+      "planName": "Explorer Pro",
+      "type": "Premium",
+      "duration": "12 months"
+    },
+    "transactionDateTime": "2024-10-01T10:23:45"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000002"
+    },
+    "userId": "64b100000000000000000002",
+    "transactionId": "TXN00022024",
+    "amount": 599.0,
+    "paymentMethod": "Credit Card",
+    "phoneNumber": "+91-9845123456",
+    "plan": {
+      "planName": "Traveller Basic",
+      "type": "Basic",
+      "duration": "6 months"
+    },
+    "transactionDateTime": "2024-11-10T14:05:22"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000003"
+    },
+    "userId": "64b100000000000000000003",
+    "transactionId": "TXN00032024",
+    "amount": 1999.0,
+    "paymentMethod": "Debit Card",
+    "phoneNumber": "+91-9823456789",
+    "plan": {
+      "planName": "Explorer Pro",
+      "type": "Premium",
+      "duration": "12 months"
+    },
+    "transactionDateTime": "2024-12-15T09:45:00"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000004"
+    },
+    "userId": "64b100000000000000000004",
+    "transactionId": "TXN00042024",
+    "amount": 2999.0,
+    "paymentMethod": "Net Banking",
+    "phoneNumber": "+91-9812345678",
+    "plan": {
+      "planName": "Family Pack",
+      "type": "Premium",
+      "duration": "12 months"
+    },
+    "transactionDateTime": "2025-01-06T11:30:15"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000005"
+    },
+    "userId": "64b100000000000000000005",
+    "transactionId": "TXN00052024",
+    "amount": 349.0,
+    "paymentMethod": "UPI",
+    "phoneNumber": "+91-9834567890",
+    "plan": {
+      "planName": "Traveller Basic",
+      "type": "Basic",
+      "duration": "3 months"
+    },
+    "transactionDateTime": "2025-02-18T16:20:33"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000006"
+    },
+    "userId": "64b100000000000000000006",
+    "transactionId": "TXN00062024",
+    "amount": 999.0,
+    "paymentMethod": "Credit Card",
+    "phoneNumber": "+91-9856789012",
+    "plan": {
+      "planName": "Explorer Pro",
+      "type": "Premium",
+      "duration": "6 months"
+    },
+    "transactionDateTime": "2024-09-08T08:55:10"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000007"
+    },
+    "userId": "64b100000000000000000007",
+    "transactionId": "TXN00072024",
+    "amount": 2999.0,
+    "paymentMethod": "UPI",
+    "phoneNumber": "+91-9867890123",
+    "plan": {
+      "planName": "Family Pack",
+      "type": "Premium",
+      "duration": "12 months"
+    },
+    "transactionDateTime": "2025-03-01T13:10:45"
+  },
+  {
+    "_id": {
+      "$oid": "txn100000000000000000008"
+    },
+    "userId": "64b100000000000000000008",
+    "transactionId": "TXN00082024",
+    "amount": 1999.0,
+    "paymentMethod": "Net Banking",
+    "phoneNumber": "+91-9878901234",
+    "plan": {
+      "planName": "Explorer Pro",
+      "type": "Premium",
+      "duration": "12 months"
+    },
+    "transactionDateTime": "2024-11-28T17:40:22"
+  }
+]
